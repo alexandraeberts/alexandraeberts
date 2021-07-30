@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandraeberts
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in machine learning and geospatial analytics.
+- 🌱 I mainly write in Python.
 - 💞️ I’m looking to collaborate on projects in the sustainability and healthcare space.
 - 📫 How to reach me alexandrajeberts@gmail.com.
 
